@@ -20,7 +20,7 @@ Como apoyo, se usaron dos datasets más, obtenidos también de la última fuente
 
 Debido al tamaño del archivo CSV, el dataset Carpetas de Investigación (acumulado 2016-2024) no está incluido en este repositorio. Por lo que se adjunta el siguiente enlace de descarga:
 
-[Descargar del dataset](https://drive.google.com/drive/u/4/folders/135wNU9gdzE8I6oFZqswHkQfrBuBdlNte)
+[Descargar del dataset desde Google Drive](https://drive.google.com/drive/u/4/folders/135wNU9gdzE8I6oFZqswHkQfrBuBdlNte)
 
 
 # ➡️ Convención de nombres para distinguir los distintos datasets en la limpieza y el EDA:
