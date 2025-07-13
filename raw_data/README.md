@@ -18,7 +18,7 @@ Como apoyo, se usaron dos datasets más, obtenidos también de la última fuente
 
 # 📥 Descarga de :
 
-Debido al tamaño del archivo CSV, el dataset número dos "carpetasFGJ_acumulado_2025_01.csv" no está incluido en este repositorio. Por lo que se adjunta el siguiente link de descarga:
+Debido al tamaño del archivo CSV, el dataset Carpetas de Investigación (acumulado 2016-2024) no está incluido en este repositorio. Por lo que se adjunta el siguiente enlace de descarga:
 
 [Descargar el dataset dos desde Google Drive](https://drive.google.com/drive/u/4/folders/135wNU9gdzE8I6oFZqswHkQfrBuBdlNte)
 
