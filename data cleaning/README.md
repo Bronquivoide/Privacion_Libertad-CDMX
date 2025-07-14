@@ -1,4 +1,6 @@
-# 🧹 Esta sección corresponde al proceso de limpieza de las bases de datos en la carpeta *raw_data* (se aborda la imputación de valores faltantes, atípicos y ambiguos, la manipulación del formato de los datos y de los dataframes, etc).
+# 🧹 Esta sección corresponde al proceso de limpieza de las bases de datos en la carpeta *raw_data*:
+
+Se aborda la imputación de valores faltantes, atípicos y ambiguos, la manipulación del formato de los datos y de los dataframes, etc.
 
 Se adjuntan los Jupyter Notebooks asociados a este proceso.
 
