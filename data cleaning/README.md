@@ -4,4 +4,4 @@ Se aborda la imputación de valores faltantes, atípicos y ambiguos, la manipula
 
 Se adjuntan los Jupyter Notebooks asociados a este proceso.
 
-Nota: La convención del nombre que reciben las bases de datos en este repositorio se encuentra en la carpeta *raw_data*.
+**Nota: La convención del nombre que reciben las bases de datos en este repositorio se encuentra en la carpeta *raw_data*.**
