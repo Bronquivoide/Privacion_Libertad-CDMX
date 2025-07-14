@@ -16,7 +16,7 @@ Como apoyo, se usaron dos datasets más, obtenidos también de la última fuente
 -   Cifras de Incidencia Delictiva Estatal, 1997 - diciembre 2017. Llamado en este repositorio *"IDE-1997-2017.csv"*
 
 
-### 📥 Descarga de *carpetasFGJ_acumulado_2025_01*:
+# 📥 Descarga de *carpetasFGJ_acumulado_2025_01*:
 
 Debido al tamaño del archivo CSV, el dataset Carpetas de Investigación (acumulado 2016-2024) no está incluido en este repositorio. Por lo que se adjunta el siguiente enlace de descarga:
 
